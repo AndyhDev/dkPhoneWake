@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">dKPhone Wake</string>
+    <string name="phone_number">Telefonnummer:</string>
+    <string name="name">Name:</string>
+    <string name="cancel">abbrechen</string>
+    <string name="add">hinzufügen</string>
+    <string name="add_dlg_title">Nummer hinzufügen</string>
+    <string name="select_number">Nummer eingeben</string>
+    <string name="select_contact">aus den Kontakten</string>
+    <string name="number_choose">woher soll die Nummer kommen?</string>
+    <string name="number_title">bitte auswählen</string>
+    <string name="notify_content">es wird auf eingehende Anrufe gelauscht</string>
+    <string name="start">start</string>
+    <string name="number_already">Nummer schon vorhanden</string>
+
+</resources>
